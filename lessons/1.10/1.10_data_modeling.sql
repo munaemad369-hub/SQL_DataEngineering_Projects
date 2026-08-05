@@ -1,0 +1,28 @@
+select 
+ job_id,
+ job_title_short,
+ salary_year_avg,
+ company_id
+from 
+ data_jobs.job_postings_fact
+limit 10;
+  
+select * from information_schema.tables;
+
+
+select * from information_schema.tables
+where table_catalog = 'data_jobs';
+
+select * from information_schema.columns
+where table_catalog = 'data_jobs';
+
+
+select * from information_schema.constraint_table_usage
+where table_catalog = 'data_jobs';
+
+
+pragma show_tables;
+
+pragma show_tables_expanded;
+
+describe job_postings_fact;

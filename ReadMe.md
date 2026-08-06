@@ -1,4 +1,4 @@
-### Exploratory Data analysis W/SQL: Job Market Analysis
+ ### Exploratory Data analysis W/SQL: Job Market Analysis
 ---
 ![PROJ_1_EDA](img\1_1_Project1_EDA.png)
 

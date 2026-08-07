@@ -1,6 +1,6 @@
 ### Exploratory Data analysis W/SQL: Job Market Analysis
 ---
-![PROJ_1_EDA](/img\1_1_Project1_EDA.png)
+![PROJ_1_EDA](../img/1_1_Project1_EDA.png)
 
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights**
 
@@ -20,7 +20,7 @@ Job market analysts need to answer questions like:
 - 💰 **Highest paid:** Which skills command the highest salaries?
 - ⚖️ **Best trade-off:** What is the optimal skill set balancing demand and compensation?
 
-  ![✨1_2_Company_Mart✨](/img\1_2_Company_Mart.png)
+  ![✨1_2_Company_Mart✨](../img/1_2_Company_Mart.png)
  - **Fact Table:** `job_postings_fact` – Central table containing job posting details (job titles, locations, salaries, dates, etc.)
 - **Dimension Tables:**
   - `company_dim` – Company information linked to job postings
